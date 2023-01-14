@@ -1,5 +1,7 @@
 # RoboMaster-Game
 RoboMaster Destroy tower
+![robomaster](https://user-images.githubusercontent.com/48949523/212458015-788ce021-26fd-4c16-a122-0dab4f667e62.jpg)
+
 # Fight and Destroy the tower! 
 Use your Robomaster S1 to destroy enemy tower and you will win!
  
